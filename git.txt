@@ -1,1 +1,1 @@
-this is gitHub repository.
+this is gitHub repository. (example)
