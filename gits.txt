@@ -1,2 +1,1 @@
-this is gitHub repository. (example)n
-next
+this is gitHub repository.
